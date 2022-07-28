@@ -12,7 +12,7 @@
 #
 # import os
 # import sys
-# sys.path.insert(0, 'C:\\Users\\Yongho\\Documents\\GitHub\\adserver\\pyAPEP')
+sys.path.insert(0, 'C:\\Users\\Yongho\\Documents\\GitHub\\adserver\\pyAPEP')
 
 
 # -- Project information -----------------------------------------------------
